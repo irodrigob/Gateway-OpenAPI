@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>ZCA_GW_OPENAPI</TCODE>
+    <PGMNA>ZCA_GW_OPENAPI</PGMNA>
+    <DYPNO>1000</DYPNO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>ZCA_GW_OPENAPI</TCODE>
+    <S_WEBGUI>1</S_WEBGUI>
+    <S_WIN32>X</S_WIN32>
+    <S_PLATIN>X</S_PLATIN>
+   </TSTCC>
+   <TSTCT>
+    <SPRSL>E</SPRSL>
+    <TCODE>ZCA_GW_OPENAPI</TCODE>
+    <TTEXT>CA - GW Open API</TTEXT>
+   </TSTCT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

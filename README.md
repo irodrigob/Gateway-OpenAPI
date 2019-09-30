@@ -1,5 +1,5 @@
 # Gateway-OpenAPI
-Fork ABAP OpenAPI UI for Gateway without oData V4
+Fork ABAP OpenAPI UI for Gateway without oData V4. Not Work en ABAP Version 7.4 :-(
 
 Esta versión es para sistema Gateway que no disponen del protocolo oData V4. / This version is for Gateway systems that do not have the oData V4 protocol.
 
